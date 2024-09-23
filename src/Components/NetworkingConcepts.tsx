@@ -40,7 +40,7 @@ const NetworkingConcepts: React.FC = () => {
             <li><strong>Network Access Layer</strong> – Manages data exchange between the host and the network.</li>
           </ul>
           <div className="section-image">
-            <img src="/src/Images/TCP-model.png" alt="TCP/IP Model" />
+            <img src="/Images/TCP-model.png" alt="TCP/IP Model" />
           </div>
         </section>
         <br></br>
@@ -53,7 +53,7 @@ const NetworkingConcepts: React.FC = () => {
           </ul>
           <p>Subnetting divides networks into smaller sub-networks to improve efficiency and security. CIDR (Classless Inter-Domain Routing) is a method for IP address allocation and routing.</p>
           <div className="section-image">
-            <img src="/src/Images/ipv4-ipv6.jpg" alt="IpAddressing" />
+            <img src="/Images/ipv4-ipv6.jpg" alt="IpAddressing" />
           </div>
         </section>
         <br></br>
@@ -67,7 +67,7 @@ const NetworkingConcepts: React.FC = () => {
             <li><strong>Mesh Topology:</strong> Devices are interconnected for redundancy.</li>
           </ul>
           <div className="section-image">
-            <img src="/src/Images/Network-Topology.png" alt="Network Visual" />
+            <img src="/Images/Network-Topology.png" alt="Network Visual" />
           </div>
         </section>
         <br></br>
@@ -81,7 +81,7 @@ const NetworkingConcepts: React.FC = () => {
             <li><strong>DHCP:</strong> Automatically assigns IP addresses to devices.</li>
           </ul>
           <div className="section-image">
-            <img src="/src/Images/Network-Protocols.png" alt="Network Protocols" />
+            <img src="/Images/Network-Protocols.png" alt="Network Protocols" />
           </div>
         </section>
         <br></br>
@@ -93,7 +93,7 @@ const NetworkingConcepts: React.FC = () => {
             <li><strong>CIDR Notation:</strong> Defines subnets by specifying the number of bits used for the network portion (e.g., 192.168.0.0/24).</li>
           </ul>
           <div className="section-image">
-            <img src="/src/Images/Subnetting.png" alt="Subnetting" />
+            <img src="/Images/Subnetting.png" alt="Subnetting" />
           </div>
         </section>
         <br></br>

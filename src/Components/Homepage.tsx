@@ -27,9 +27,9 @@ const Home: React.FC = () => {
                 <h2>Visual Representations</h2>
                 <p>Below are some visual aids that helped solidify my understanding of networking concepts:</p>
                 <div className="image-gallery">
-                    <img src="\src\Images\OSI-Model.png" alt="OSI Model" />
-                    <img src="\src\Images\TCP-model.png" alt="TCP/IP Model" />
-                    <img src="\src\Images\Network-Visual.png" alt="Network Visual" />
+                    <img src="/Images/OSI-Model.png" alt="OSI Model" />
+                    <img src="/Images/TCP-model.png" alt="TCP/IP Model" />
+                    <img src="/Images/Network-Visual.png" alt="Network Visual" />
                 {/* Add more images as necessary */}
                 </div>
             </section>
