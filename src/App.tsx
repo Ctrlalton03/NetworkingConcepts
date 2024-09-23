@@ -5,7 +5,6 @@ import Home from './Components/Homepage';
 import NetworkingConcepts from './Components/NetworkingConcepts';
 import Reflection from './Components/Reflection';
 import Contact from './Components/Contact';
-import footer from './Components/Footer';
 
 const app: React.FC = () => {
   return(
