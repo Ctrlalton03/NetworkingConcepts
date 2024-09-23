@@ -26,7 +26,7 @@ const NetworkingConcepts: React.FC = () => {
             <li><strong>Layer 7: Application</strong> – Interfaces directly with end-user applications.</li>
           </ul>
           <div className="section-image">
-            <img src="\src\Images\OSI-Model.png" alt="OSI Model" />
+            <img src="/Images/OSI-Model.png" alt="OSI Model" />
           </div>
         </section>
         <br></br>
@@ -40,7 +40,7 @@ const NetworkingConcepts: React.FC = () => {
             <li><strong>Network Access Layer</strong> – Manages data exchange between the host and the network.</li>
           </ul>
           <div className="section-image">
-            <img src="\src\Images\TCP-model.png" alt="TCP/IP Model" />
+            <img src="/src/Images/TCP-model.png" alt="TCP/IP Model" />
           </div>
         </section>
         <br></br>
